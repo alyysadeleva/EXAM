@@ -1,5 +1,3 @@
-
-![image](https://github.com/alyysadeleva/EXAM/assets/153218337/c3d0ced5-2118-4767-a6b5-fa6856256ead)
 база данных (ER - Entity Relationship - сущность связь) из ПО файлов для импорта и задание необходимо найти инфо для БД
 ![image](https://github.com/alyysadeleva/EXAM/assets/153218337/64b1c6bf-16b9-47cb-be70-f8484adde73a)
 
