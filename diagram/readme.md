@@ -7,3 +7,5 @@
 последовательности (sequence) авторизация, взаимодейтсвие с несколькими страницами (может не быть)
 ![image](https://github.com/alyysadeleva/EXAM/assets/153218337/3fa52a08-0ca9-46b8-a76f-c6016cb33268)
 ![image](https://github.com/alyysadeleva/EXAM/assets/153218337/9cb96018-7378-4707-9211-fd3e63d5dc91)
+![Screenshot_19 pngккккк png](https://github.com/alyysadeleva/EXAM/assets/153218337/8eaf0f76-3bd1-4832-a24f-7a4d14683e70)
+
